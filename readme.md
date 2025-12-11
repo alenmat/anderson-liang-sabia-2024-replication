@@ -13,3 +13,5 @@ All data and replication code are available from the authors at: https://journal
 
 This code utilizes Poetry as its dependency manager. The usage of Poetry is advised for minimizing dependency errors. Poetry documentation is available @ https://python-poetry.org/docs/.
 
+The main results of this exercise are in the main.ipynb file. The slides folder replicates the pdf presented in class.
+
